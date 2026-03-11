@@ -13,7 +13,12 @@ Bu uygulama, kullanıcıların haftalık rutinlerini yönetebilmesi için tasarl
 * **Arayüz:** WinForms (Windows Forms)
 * **IDE:** Visual Studio 2026
 ---
-
+## 💻 Geliştirme Donanımı
+Bu proje, yüksek performanslı bir geliştirme ortamında optimize edilmiştir:
+- **GPU:** NVIDIA RTX 4060
+- **RAM:** 32 GB
+- **Depolama:** 1 TB SSD
+---
 ## ⚙️ Kurulum
 1. Projeyi bilgisayarınıza indirin veya klonlayın.
 2. `ajanda.sln` dosyasını Visual Studio ile açın.
